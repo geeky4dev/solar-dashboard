@@ -61,7 +61,7 @@ New York
 Sydney
 Cape Town
 Rio de Janeiro
-
+Stockholm
 You can add more cities in LocationForm.jsx.
 
 📁 Project Structure (Simplified)
