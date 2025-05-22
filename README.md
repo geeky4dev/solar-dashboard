@@ -95,3 +95,10 @@ Add dropdown for cities instead of text input
 Let users select custom coordinates with a map (Leaflet.js)
 Store user searches or history
 Deploy to Vercel + Render / Railway
+
+...
+📜 License
+MIT License.
+
+Created by geeky4dev – feel free to fork, contribute, or star 🌟 the project!
+
