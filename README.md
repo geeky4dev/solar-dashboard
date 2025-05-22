@@ -25,6 +25,10 @@ This is a full-stack web application that visualizes **solar radiation data** ba
 - 🌐 Real API consumption with custom endpoint
 
 ---
+![1 Berlin Default](https://github.com/user-attachments/assets/38684d5d-3a87-40d3-8961-1480a2457329)
+![2 NY](https://github.com/user-attachments/assets/b09c2354-6134-4300-8a13-28fa28bf572c)
+![3 Rio de Janeiro](https://github.com/user-attachments/assets/dbfe9bc6-6671-407b-81c8-25ee886cc191)
+![4 Cape Town](https://github.com/user-attachments/assets/f61d16dc-7a0c-4848-bca4-3718162221cd)
 
 ## 🚀 Getting Started
 
@@ -33,10 +37,8 @@ This is a full-stack web application that visualizes **solar radiation data** ba
 ```bash
 git clone https://github.com/your-username/solar-dashboard.git
 cd solar-dashboard
+
 2. Start the backend (Flask)
-bash
-Copy
-Edit
 cd backend
 python3 -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -45,9 +47,7 @@ python app.py
 Flask will run on http://localhost:5001
 
 3. Start the frontend (Vite + React)
-bash
-Copy
-Edit
+
 cd frontend
 npm install
 npm run dev
@@ -55,21 +55,13 @@ Frontend will run on http://localhost:5173
 
 🌇 Supported Cities
 Berlin
-
 Munich
-
 Madrid
-
 Paris
-
 Tokyo
-
 New York
-
 Sydney
-
 Cape Town
-
 Rio de Janeiro
 
 You can add more cities in LocationForm.jsx.
@@ -98,20 +90,13 @@ solar-dashboard/
 │           └── solarAPI.js
 🧠 What You'll Learn
 How to build full-stack apps (React + Flask)
-
 API integration and data handling
-
 Charting with Recharts
-
 Component-based UI design
-
 Modular file structure for scaling
 
 📌 TODO / Ideas
 Add dropdown for cities instead of text input
-
 Let users select custom coordinates with a map (Leaflet.js)
-
 Store user searches or history
-
 Deploy to Vercel + Render / Railway
