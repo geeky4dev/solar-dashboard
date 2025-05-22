@@ -25,10 +25,8 @@ This is a full-stack web application that visualizes **solar radiation data** ba
 - 🌐 Real API consumption with custom endpoint
 
 ---
-![1 Berlin Default](https://github.com/user-attachments/assets/38684d5d-3a87-40d3-8961-1480a2457329)
-![2 NY](https://github.com/user-attachments/assets/b09c2354-6134-4300-8a13-28fa28bf572c)
-![3 Rio de Janeiro](https://github.com/user-attachments/assets/dbfe9bc6-6671-407b-81c8-25ee886cc191)
-![4 Cape Town](https://github.com/user-attachments/assets/f61d16dc-7a0c-4848-bca4-3718162221cd)
+![1 Berlin+NY](https://github.com/user-attachments/assets/8bf6193e-9b9d-4bd6-b4a4-70530fcf4f84)
+![2 Rio+Cape Town](https://github.com/user-attachments/assets/a0f66091-3481-4711-806a-b9b5c585167c)
 
 ## 🚀 Getting Started
 
