@@ -83,6 +83,7 @@ solar-dashboard/
 │       │   └── SolarChart.jsx
 │       └── services/
 │           └── solarAPI.js
+
 🧠 What You'll Learn
 How to build full-stack apps (React + Flask)
 API integration and data handling
