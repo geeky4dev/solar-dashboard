@@ -62,9 +62,7 @@ Stockholm
 You can add more cities in LocationForm.jsx.
 
 📁 Project Structure (Simplified)
-css
-Copy
-Edit
+
 solar-dashboard/
 ├── backend/
 │   ├── app.py
