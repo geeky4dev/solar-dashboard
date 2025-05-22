@@ -14,8 +14,6 @@ This is a full-stack web application that visualizes **solar radiation data** ba
 - FastAPI-compatible structure (if extended)
 - Solar radiation data fetched from Open Meteo API
 
----
-
 ## 📸 Features
 
 - 🔎 Search cities (Berlin, Munich, Madrid, Paris, Tokyo, etc.)
@@ -24,7 +22,6 @@ This is a full-stack web application that visualizes **solar radiation data** ba
 - 📦 Modular, clean project structure
 - 🌐 Real API consumption with custom endpoint
 
----
 ![1 Berlin+NY](https://github.com/user-attachments/assets/8bf6193e-9b9d-4bd6-b4a4-70530fcf4f84)
 ![2 Rio+Cape Town](https://github.com/user-attachments/assets/a0f66091-3481-4711-806a-b9b5c585167c)
 
