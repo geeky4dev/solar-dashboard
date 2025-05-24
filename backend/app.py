@@ -5,6 +5,10 @@ import requests
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/")
+def home():
+    return "API Solar Dashboard Backend está funcionando"
+
 @app.route("/api/solar", methods=["GET"])
 def get_solar_data():
     lat = request.args.get("lat", default="52.52")
